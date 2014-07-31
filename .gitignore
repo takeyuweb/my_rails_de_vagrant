@@ -1,0 +1,5 @@
+/.idea
+/Berksfile.lock
+/Gemfile.lock
+/*.iml
+/.vagrant
